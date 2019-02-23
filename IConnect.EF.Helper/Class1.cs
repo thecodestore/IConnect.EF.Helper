@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace IConnect.EF.Helper
 {
+
+	//
     public class Class1
     {
     }
